@@ -1,0 +1,32 @@
+p.name {
+    color: aqua;
+}
+
+p.age {
+    color: green;
+}
+
+h1 {
+    color: red;
+    font-size: 50pt;
+    font-weight: bold;
+}
+
+div.box1 {
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+    text-align: right;
+}
+
+div.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+div.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: navy;
+}
